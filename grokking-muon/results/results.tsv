@@ -1,0 +1,3 @@
+timestamp	commit	status	metric	secondary	description
+2026-07-15T16:24:44Z	047378d	keep	1300.0	grokked=1,mechanism=rank-collapse	B AdamW wd=1 (baseline grokking): grok@1300, eff_rank colapsa a 0.54
+2026-07-15T16:24:44Z	047378d	keep	200.0	grokked=1,mechanism=rank-preserving,wd=0	C Muon SIN wd: grok@200 (3/3 seeds), eff_rank alto 0.86 — grokkea sin weight decay
