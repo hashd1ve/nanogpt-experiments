@@ -24,6 +24,7 @@ Runs on Apple Silicon (MPS), CUDA, or CPU.
 | experiment | one-liner |
 |---|---|
 | [**grokking-muon**](./grokking-muon) | Muon groks modular addition *without* weight decay — and via a different (distributed-Fourier, high-rank) mechanism than AdamW+wd (sparse-Fourier, low-rank). |
+| [**world-models**](./world-models) | A transformer's world model is *born* in a sharp phase transition for a **discrete** latent (a register) but **gradually** for a **continuous** one (grid position) — and the representation is causal and universal across seeds, verified against ground-truth linear probes. |
 
 *(more to come — this is a growing meta-repo.)*
 
