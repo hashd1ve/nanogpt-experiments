@@ -34,6 +34,10 @@ Built on [nanoGPT](https://github.com/karpathy/nanoGPT) (Andrej Karpathy, MIT) a
 [Muon](https://kellerjordan.github.io/posts/muon/) (Keller Jordan). See each experiment's README for
 task-specific references.
 
-### License
+### License & citation
 
-MIT — see [LICENSE](./LICENSE).
+Original content and code: **CC BY 4.0** — free to use and adapt, **as long as you give
+credit** (see [LICENSE](./LICENSE)). Please cite this repository if you use the findings,
+figures, or code — a ready-made citation is in [CITATION.cff](./CITATION.cff) (GitHub's
+"Cite this repository" button). Vendored nanoGPT and Muon remain MIT — see
+[THIRD_PARTY.md](./THIRD_PARTY.md).

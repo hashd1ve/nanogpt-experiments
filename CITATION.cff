@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these findings, figures, or code, please cite this repository."
+title: "nanogpt-experiments: small, verifiable experiments on how tiny transformers learn"
+abstract: >-
+  A growing meta-repo of small, self-contained, fully-instrumented experiments on a
+  tiny nanoGPT, aimed at understanding how LLMs actually learn — training dynamics,
+  optimizers, generalization, and the developmental emergence and universality of
+  internal (world-model) representations, studied with controlled ground-truth probes.
+type: software
+authors:
+  - name: "hashd1ve"
+    alias: "hashd1ve"
+repository-code: "https://github.com/hashd1ve/nanogpt-experiments"
+url: "https://github.com/hashd1ve/nanogpt-experiments"
+license: CC-BY-4.0
+date-released: "2026-07-15"
+keywords:
+  - mechanistic interpretability
+  - developmental interpretability
+  - world models
+  - emergence
+  - nanoGPT
+  - training dynamics
